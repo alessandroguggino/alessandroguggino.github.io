@@ -12,7 +12,6 @@ permalink: /socials
 <a href="https://github.com/AlessandroGuggino" target="_blank">GitHub</a>
 <a href="skype:alex.guggino">Skype</a>
 
-####
 
 # My email address
 
