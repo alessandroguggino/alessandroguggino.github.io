@@ -6,12 +6,6 @@ permalink: /socials
 
 # My presence on the Internet
 
-[Facebook]
-Instagram
-Twitter
-LinkedIn
-GitHub
-
 <a href="https://facebook.com/alexguggino" target="_blank">Facebook</a>
 <a href="https://instagram.com/alessandroguggino" target="_blank">Instagram</a>
 <a href="https://linkedin.com/in/alessandroguggino" target="_blank">LinkedIn</a>
