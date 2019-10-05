@@ -6,7 +6,7 @@ permalink:
 
 # Alessandro Guggino
 <br>
-~ Computer Engineering Student 
-  at [Polytechnic University of Turin](http://www.polito.it)
+~ Computer Engineering (BSc) Student 
+  at <a href="https://www.polito.it" target="_blank">Polytechnic University of Turin</a>
 ~ Cyber Security Intern 
-  at [LINKS Foundation](http://www.linksfoundation.com)
+  at <a href="https://www.linksfoundation.com" target="_blank">LINKS Foundation</a>
