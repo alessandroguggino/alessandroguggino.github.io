@@ -1,0 +1,16 @@
+title: 'Alessandro Guggino'
+description: "Alessandro Guggino's website & portfolio"
+baseurl: ""
+url: "https://alessandroguggino.github.io"
+
+header_pages:
+  - index.md
+  - contact.md
+
+style: dark
+
+footer: 'follow me on <a href="https://alessandroguggino.github.io/">socials</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
