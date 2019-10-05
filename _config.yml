@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow me on <a href="https://alessandroguggino.github.io/">socials</a>'
+footer: 'follow me on <a href="https://alessandroguggino.github.io/socials">socials</a>'
 
 # Build settings
 markdown: kramdown
