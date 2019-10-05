@@ -14,3 +14,6 @@ footer: 'follow me on <a href="https://alessandroguggino.github.io/social">socia
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+
+gems:
+  - jekyll-font-awesome-sass
