@@ -8,5 +8,3 @@ permalink:
 
 Computer Engineering Student at [Polytechnic University of Turin](http://www.polito.it)
 Cyber Security Intern at [LINKS Foundation](http://www.linksfoundation.com)
-
-<a href="https://facebook.com/alexguggino" target="_blank">Facebook</a>
