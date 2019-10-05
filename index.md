@@ -1,10 +1,10 @@
 ---
-title: /
+title: /home
 layout: home
-permalink: /
+permalink: 
 ---
 
 # Alessandro Guggino
 
-Computer Engineering Student at PoliTo
-Cyber Security Intern at LINKS Foundation
+Computer Engineering Student at [Polytechnic University of Turin](www.polito.it)
+Cyber Security Intern at [LINKS Foundation](www.linksfoundation.com)
