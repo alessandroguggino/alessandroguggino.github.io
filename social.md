@@ -16,5 +16,3 @@ permalink: /social
 # My email address
 
 <a href="mailto:aguggino97@gmail.com">aguggino97@gmail.com</a>
-
-ciao
