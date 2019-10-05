@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "alessandroguggino.github.io"
   spec.version       = "1.0.0"
-  spec.authors       = ["alessandroguggino,b2a3e8"]
+  spec.authors       = ["alessandroguggino, b2a3e8"]
   spec.email         = ["aguggino97@gmail.com"]
 
-  spec.summary       = "Alessandro Guggino's website & portfolio"
+  spec.summary       = "Alessandro Guggino's website/portfolio"
   spec.homepage      = "https://alessandroguggino.github.io"
   spec.license       = "MIT"
 
