@@ -1,7 +1,7 @@
 ---
-title: /socials
+title: /social
 layout: page
-permalink: /socials
+permalink: /social
 ---
 
 # My presence on the Internet
