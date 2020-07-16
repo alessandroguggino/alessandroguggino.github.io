@@ -4,8 +4,12 @@ layout: home
 permalink: 
 ---
 
+![AG](/media/agbn.JPG){:height="400px" width="400px"}
+
 # Alessandro Guggino
+
 <br>
+
 ~ MSc Student in Computer Engineering (Cybersecurity) 
   at <a href="https://www.polito.it" target="_blank">Polytechnic University of Turin</a>
 ~ Former Cybersecurity Research Intern 
