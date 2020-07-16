@@ -4,7 +4,7 @@ layout: home
 permalink: 
 ---
 
-![AG](/media/agbn.jpg){:height="200px" width="200px"}
+![AG](/media/agbn.jpg){:height="100px" width="100px"}
 
 # Alessandro Guggino
 
