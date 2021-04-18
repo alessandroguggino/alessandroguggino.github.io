@@ -4,7 +4,7 @@ layout: home
 permalink: 
 ---
 
- <div class="c-glitch" style="background-image: url('/media/agglitch.jpg'); width:100px; height:100px">
+ <div class="c-glitch" style="background-image: url('/media/agglitch.jpg'); text-align: left; width: 150px; height: 150px">
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
