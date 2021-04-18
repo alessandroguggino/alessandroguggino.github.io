@@ -43,7 +43,7 @@ h6:before { content: "######";  margin-right: 9px; }*/
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; }
 footer { color: $text-color;  border-top: $border;  margin: 20px auto 15px;  padding-top: 10px;  text-align: right; }
-header { margin-top: 25px;  margin-bottom: 10px; }
+header { text-align: left; margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
 footer { margin-bottom: 20px; }
 
@@ -180,6 +180,7 @@ html {
   margin: 0;
   min-height: 100vh;
   padding: 0;
+  text-align: left;
 }
 
 .c-intro {
@@ -190,7 +191,7 @@ html {
 .c-fe30 {
   color: $pure-white;
   margin-top: rem(40);
-  text-align: center;
+  text-align: left;
   
   a {
     color: $pure-white;
@@ -294,7 +295,6 @@ html {
   background-blend-mode: none;
   background-color: transparent;
   height: calc(100% + 5px * 2);
-  left: 0;
   pointer-events: none;
   position: absolute;
   top: 0;
