@@ -4,15 +4,13 @@ layout: home
 permalink: 
 ---
 
- <div class="c-glitch" style="background-image: url('/media/agglitch.jpg');">
+ <div class="c-glitch" style="background-image: url('/media/agglitch.jpg'); width:100px; height:100px">
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
     <div class="c-glitch__img" style="background-image: url('/media/agglitch.jpg');"></div>
-  </div>
-
-![AG](/media/agglitch.jpg){:height="100px" width="100px"}
+ </div>
 
 # Alessandro Guggino
 
