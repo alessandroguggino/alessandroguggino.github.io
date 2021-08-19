@@ -17,9 +17,9 @@ permalink:
 <br>
 
 ~ MSc Student in Computer Engineering
-  at <a href="https://www.polito.it" target="_blank">Polytechnic University of Turin</a>
+  at <a href="https://www.polito.it" target="_blank">Politecnico di Torino</a>
   
-~ Team co-lead
+~ Team co-leader
   at <a href="https://www.bitpolito.it" target="_blank">BIT PoliTO</a>
   
 ~ Former Cybersecurity Research Intern 
