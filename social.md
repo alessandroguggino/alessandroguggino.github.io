@@ -4,7 +4,7 @@ layout: page
 permalink: /social
 ---
 
-# My presence on the Internet
+# My presence on Internet
 
 <a href="https://instagram.com/alessandroguggino" target="_blank">Instagram</a>
 <a href="https://linkedin.com/in/alessandroguggino" target="_blank">LinkedIn</a>
