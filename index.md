@@ -16,11 +16,11 @@ permalink:
 
 <br>
 
-~ MSc Student in Computer Engineering
+~ Master's graduate in Computer Engineering
   at <a href="https://www.polito.it" target="_blank">Politecnico di Torino</a>
   
-~ Team co-leader
-  at <a href="https://www.bitpolito.it" target="_blank">BIT PoliTO</a>
-  
-~ Former Cybersecurity Research Intern 
+~ Former Cybersecurity researcher 
   at <a href="https://www.linksfoundation.com" target="_blank">LINKS Foundation</a>
+ 
+~ Former Team co-lead
+  at <a href="https://www.bitpolito.it" target="_blank">BIT PoliTO</a>
