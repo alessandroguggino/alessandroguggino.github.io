@@ -26,4 +26,4 @@ permalink:
   at <a href="https://www.linksfoundation.com" target="_blank">LINKS Foundation</a>
  
 ~ Former Team co-lead
-  at <a href="https://www.bitpolito.it" target="_blank">BIT PoliTO</a>
+  at <a href="https://www.bitpolito.it" target="_blank">BitPolito</a>
