@@ -16,10 +16,13 @@ permalink:
 
 <br>
 
+~ Security researcher
+  at <a href="https://www.crowdstrike.com" target="_blank">CrowdStrike</a>
+
 ~ Master's graduate in Computer Engineering
   at <a href="https://www.polito.it" target="_blank">Politecnico di Torino</a>
   
-~ Former Cybersecurity researcher 
+~ Former Cybersecurity researcher (thesis)
   at <a href="https://www.linksfoundation.com" target="_blank">LINKS Foundation</a>
  
 ~ Former Team co-lead
